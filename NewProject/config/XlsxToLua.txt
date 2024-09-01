@@ -1,0 +1,16 @@
+programPath:D:\NewProject\ExcelTool\XlsxToLua-master\XlsxToLua\bin\Debug\XlsxToLua.exe
+excelFolderPath:D:\NewProject\Excel
+exportLuaFolderPath:D:\NewProject\LuaXlsx
+clientFolderPath:-noClient
+langFilePath:-noLang
+-exportCsvParam_extension:csv
+-exportCsvParam_splitString:,
+-exportJsonParam_extension:txt
+-exportIncludeSubfolder:true
+-exportKeepDirectoryStructure:true
+-columnInfo:true
+-exportCsvParam_isExportColumnName:true
+-exportCsvParam_isExportColumnDataType:true
+-exportJsonParam_isExportJsonArrayFormat:true
+-exportJsonParam_isMapIncludeKeyColumnValue:true
+-exportJavaClassParam_isUseDate:true
